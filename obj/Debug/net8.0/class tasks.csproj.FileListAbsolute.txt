@@ -1,0 +1,14 @@
+C:\Users\99477\Desktop\class assignments\class tasks\class tasks\bin\Debug\net8.0\class tasks.exe
+C:\Users\99477\Desktop\class assignments\class tasks\class tasks\bin\Debug\net8.0\class tasks.deps.json
+C:\Users\99477\Desktop\class assignments\class tasks\class tasks\bin\Debug\net8.0\class tasks.runtimeconfig.json
+C:\Users\99477\Desktop\class assignments\class tasks\class tasks\bin\Debug\net8.0\class tasks.dll
+C:\Users\99477\Desktop\class assignments\class tasks\class tasks\bin\Debug\net8.0\class tasks.pdb
+C:\Users\99477\Desktop\class assignments\class tasks\class tasks\obj\Debug\net8.0\class tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99477\Desktop\class assignments\class tasks\class tasks\obj\Debug\net8.0\class tasks.AssemblyInfoInputs.cache
+C:\Users\99477\Desktop\class assignments\class tasks\class tasks\obj\Debug\net8.0\class tasks.AssemblyInfo.cs
+C:\Users\99477\Desktop\class assignments\class tasks\class tasks\obj\Debug\net8.0\class tasks.csproj.CoreCompileInputs.cache
+C:\Users\99477\Desktop\class assignments\class tasks\class tasks\obj\Debug\net8.0\class tasks.dll
+C:\Users\99477\Desktop\class assignments\class tasks\class tasks\obj\Debug\net8.0\refint\class tasks.dll
+C:\Users\99477\Desktop\class assignments\class tasks\class tasks\obj\Debug\net8.0\class tasks.pdb
+C:\Users\99477\Desktop\class assignments\class tasks\class tasks\obj\Debug\net8.0\class tasks.genruntimeconfig.cache
+C:\Users\99477\Desktop\class assignments\class tasks\class tasks\obj\Debug\net8.0\ref\class tasks.dll
